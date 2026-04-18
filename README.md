@@ -1,16 +1,24 @@
-## Hi there 👋
+Hello there!! 👋
 
-<!--
-**drosadocastro-bit/drosadocastro-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Danny Rosado Castro
 
-Here are some ideas to get you started:
+FAA Airways Transportation Systems Specialist. From Bayamón, Puerto Rico. Building AI systems on the side because the problems are interesting and the tools are finally good enough.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I build
+
+MANATUABON — A local-first astrophysics reasoning workspace. Ingests real data from JWST, Hubble, LIGO, Gaia, and ZTF. Hypotheses pass through a governed council before anything gets accepted. Named after the Cibuco River in Manatí — Taíno heritage, Boriken roots.
+
+NIC — Nova Intelligent Copilot — Offline-first RAG system built for domain-specific knowledge. Safety layers, hallucination mitigation, evidence tiering.
+
+Agent K — Deterministic integrity scoring for AI agents. No LLM in the evaluation path. Inspired by Blade Runner. Truth > Fluency. Human Authority > AI Autonomy.
+
+Julia — AI crop caretaker for Puerto Rico home gardeners. Runs offline on a Jetson Orin Nano. Named after my grandmother, who loved to plant.
+
+Project ARIA — Vehicle AI copilot. Real-time car data, intelligent audio, edge hardware.
+
+cibuco-boriken — CFAR radar signal processing adapted for bioacoustic species detection. Kaggle team name: same Taíno roots.
+
+Philosophy
+
+Everything here is offline-first, human-on-the-loop, and built with governance before features. I don't chase model size. I chase reliability, transparency and honest failure modes.
+AI works best as a genuine collaborator, not a black box.
