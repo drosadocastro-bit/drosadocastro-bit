@@ -6,7 +6,7 @@ FAA Airways Transportation Systems Specialist. From Bayamón, Puerto Rico. Build
 
 What I build
 
-MANATUABON — A local-first astrophysics reasoning workspace. Ingests real data from JWST, Hubble, LIGO, Gaia, and ZTF. Hypotheses pass through a governed council before anything gets accepted. Named after the Cibuco River in Manatí — Taíno heritage, Boriken roots.
+MANATUABON — A local-first astrophysics reasoning workspace. Ingests real data from JWST, Hubble, LIGO, Gaia, and ZTF. Hypotheses pass through a governed council before anything gets accepted. Named after the Rio Grande de Manati valley region — Taíno heritage, Boriken roots.
 
 NIC — Nova Intelligent Copilot — Offline-first RAG system built for domain-specific knowledge. Safety layers, hallucination mitigation, evidence tiering.
 
@@ -16,7 +16,7 @@ Julia — AI crop caretaker for Puerto Rico home gardeners. Runs offline on a Je
 
 Project ARIA — Vehicle AI copilot. Real-time car data, intelligent audio, edge hardware.
 
-cibuco-boriken — CFAR radar signal processing adapted for bioacoustic species detection. Kaggle team name: same Taíno roots.
+cibuco-boriken — CFAR radar signal processing adapted for bioacoustic species detection. Kaggle team name: Named after Cibuco River in Vega Baja/Corozal same Taíno roots.
 
 Philosophy
 
