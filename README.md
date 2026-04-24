@@ -16,11 +16,11 @@ Julia — AI crop caretaker for Puerto Rico home gardeners. Runs offline on a Je
 
 Project ARIA — Vehicle AI copilot. Real-time car data, intelligent audio, edge hardware.
 
-Project-Lumina - Lumina: A Emergent Mind, a digital ecosystem where consciousness is not programmed, but arises from the interactions of 50+ autonomous neural nodes.
+Project Lumina - A Emergent Mind, a digital ecosystem where consciousness is not programmed, but arises from the interactions of 50+ autonomous neural nodes. Made on google AI studio
 
 cibuco-boriken — CFAR radar signal processing adapted for bioacoustic species detection. Kaggle team name: Named after Cibuco River in Vega Baja/Corozal same Taíno roots.
 
 Philosophy
 
-Everything here is offline-first, human-on-the-loop, and built with governance before features. I don't chase model size. I chase reliability, transparency and honest failure modes.
+Everything here is offline/online, human-on-the-loop, and built with governance before features. I don't chase model size. I chase reliability, transparency and honest failure modes.
 AI works best as a genuine collaborator, not a black box.
