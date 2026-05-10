@@ -20,6 +20,8 @@ Project Lumina A well-designed physics simulation with a Gemini reflection layer
 
 cibuco-boriken — CFAR radar signal processing adapted for bioacoustic species detection. Kaggle team name: Named after Cibuco River in Vega Baja/Corozal same Taíno roots.
 
+Synthetic Radar Protocol - A high-fidelity synthetic monitoring, perception degradation, and AI reasoning platform for radar site telemetry.
+
 Philosophy
 
 Everything here is offline/online, human-on-the-loop, and built with governance before features. I don't chase model size. I chase reliability, transparency and honest failure modes.
