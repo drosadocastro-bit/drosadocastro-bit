@@ -2,7 +2,7 @@ Hello there!! 👋
 
 Danny Rosado Castro
 
-FAA Airways Transportation Systems Specialist. From Bayamón, Puerto Rico. Building AI systems on the side because the problems are interesting and the tools are finally good enough.
+From Bayamón, Puerto Rico. Building AI systems on the side because the problems are interesting and the tools are finally good enough.
 
 What I build
 
@@ -19,8 +19,6 @@ Project ARIA — Vehicle AI copilot. Real-time car data, intelligent audio, edge
 Project Lumina A well-designed physics simulation with a Gemini reflection layer that generates compelling narration, an audio coupling mechanism that genuinely affects node behavior, and a memory system with observable saturation dynamics
 
 cibuco-boriken — CFAR radar signal processing adapted for bioacoustic species detection. Kaggle team name: Named after Cibuco River in Vega Baja/Corozal same Taíno roots.
-
-Synthetic Radar Protocol - A high-fidelity synthetic monitoring, perception degradation, and AI reasoning platform for radar site telemetry.
 
 Roswell UAP Cortex - A cognitive investigative assistant framework for uncertain evidence domains.
 
