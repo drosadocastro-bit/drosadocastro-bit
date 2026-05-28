@@ -22,6 +22,8 @@ cibuco-boriken — CFAR radar signal processing adapted for bioacoustic species 
 
 Synthetic Radar Protocol - A high-fidelity synthetic monitoring, perception degradation, and AI reasoning platform for radar site telemetry.
 
+Roswell UAP Cortex - A cognitive investigative assistant framework for uncertain evidence domains.
+
 Philosophy
 
 Everything here is offline/online, human-on-the-loop, and built with governance before features. I don't chase model size. I chase reliability, transparency and honest failure modes.
