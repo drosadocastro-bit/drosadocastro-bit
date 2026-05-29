@@ -20,7 +20,7 @@ Project Lumina A well-designed physics simulation with a Gemini reflection layer
 
 cibuco-boriken — CFAR radar signal processing adapted for bioacoustic species detection. Kaggle team name: Named after Cibuco River in Vega Baja/Corozal same Taíno roots.
 
-Roswell UAP Cortex - A cognitive investigative assistant framework for uncertain evidence domains.
+Cortex - A cognitive investigative assistant framework for uncertain evidence domains.
 
 Philosophy
 
