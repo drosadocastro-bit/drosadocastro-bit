@@ -22,6 +22,7 @@ cibuco-boriken — CFAR radar signal processing adapted for bioacoustic species 
 
 Cortex - A cognitive investigative assistant framework for uncertain evidence domains.
 
+Juracan - a Kaggle orbit wars competition agent  built in colaboration between a human and an AI, pair-programming through the night, across days, through failures and breakthroughs
 Philosophy
 
 Everything here is offline/online, human-on-the-loop, and built with governance before features. I don't chase model size. I chase reliability, transparency and honest failure modes.
