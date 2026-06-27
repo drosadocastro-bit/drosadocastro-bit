@@ -25,5 +25,7 @@ Cortex - A cognitive investigative assistant framework for uncertain evidence do
 Juracan - a Kaggle orbit wars competition agent  built in colaboration between a human and an AI, pair-programming through the night, across days, through failures and breakthroughs
 Philosophy
 
+Nvidianemotronchallenge2 - Historical archive of my NVIDIA Nemotron 2026 reasoning challenge workflow, preserving synthetic reasoning data generation, Colab fine-tuning notebooks, LoRA packaging, inference experiments, and lessons learned.
+
 Everything here is offline/online, human-on-the-loop, and built with governance before features. I don't chase model size. I chase reliability, transparency and honest failure modes.
 AI works best as a genuine collaborator, not a black box.
