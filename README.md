@@ -18,7 +18,7 @@ Project ARIA — Vehicle AI copilot. Real-time car data, intelligent audio, edge
 
 Project Lumina A well-designed physics simulation with a Gemini reflection layer that generates compelling narration, an audio coupling mechanism that genuinely affects node behavior, and a memory system with observable saturation dynamics
 
-cibuco-boriken — CFAR radar signal processing adapted for bioacoustic species detection. Kaggle team name: Named after Cibuco River in Vega Baja/Corozal same Taíno roots.
+cibuco-boriken — Historical archive of a BirdCLEF 2026 competition project, including CFAR-inspired adaptive thresholding experiments for noisy bioacoustic species detection. Kaggle team name: Named after Cibuco River in Vega Baja/Corozal same Taíno roots.
 
 Cortex - A cognitive investigative assistant framework for uncertain evidence domains.
 
