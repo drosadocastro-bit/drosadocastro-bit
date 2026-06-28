@@ -27,7 +27,7 @@ Philosophy
 
 Nvidianemotronchallenge2026 - Historical archive of my NVIDIA Nemotron 2026 reasoning challenge workflow, preserving synthetic reasoning data generation, Colab fine-tuning notebooks, LoRA packaging, inference experiments, and lessons learned.
 
-Synthetic Radar Protocol - A high-fidelity synthetic monitoring, perception degradation, and AI reasoning platform for radar site telemetry.
+Synthetic Radar Protocol - A high-fidelity synthetic monitoring, perception degradation, and AI reasoning platform for radar site telemetry. Designed for experimentation, validation, and trustworthy AI-assisted diagnostics.
 
-Everything here is offline/online, human-on-the-loop, and built with governance before features. I don't chase model size. I chase reliability, transparency and honest failure modes.
+Everything here is offline/online, human-in-the-loop, and built with governance before features. I don't chase model size. I chase reliability, transparency and honest failure modes.
 AI works best as a genuine collaborator, not a black box.
