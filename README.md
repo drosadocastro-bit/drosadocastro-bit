@@ -1,6 +1,6 @@
 Hello there!! 👋
 
-Danny Rosado Castro
+Danny Rosado Castro (Drakus)
 
 From Bayamón, Puerto Rico. Building trustworthy AI systems because difficult problems deserve transparent solutions.
 
