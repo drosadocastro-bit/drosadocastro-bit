@@ -2,7 +2,7 @@ Hello there!! 👋
 
 Danny Rosado Castro
 
-From Bayamón, Puerto Rico. Building independly trustworthy AI systems because difficult problems deserve transparent solutions.
+From Bayamón, Puerto Rico. Building trustworthy AI systems because difficult problems deserve transparent solutions.
 
 What I build
 
