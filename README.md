@@ -2,7 +2,7 @@ Hello there!! 👋
 
 Danny Rosado Castro
 
-From Bayamón, Puerto Rico. Building AI systems on the side because the problems are interesting and the tools are finally good enough.
+From Bayamón, Puerto Rico. Building independly trustworthy AI systems because difficult problems deserve transparent solutions.
 
 What I build
 
