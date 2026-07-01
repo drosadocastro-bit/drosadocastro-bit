@@ -4,7 +4,7 @@ Danny Rosado Castro (Drakus)
 
 From Bayamón, Puerto Rico. Building trustworthy AI systems because difficult problems deserve transparent solutions.
 
-What I build
+What I been working (developing)
 
 MANATUABON — A local-first astrophysics reasoning workspace. Ingests real data from JWST, Hubble, LIGO, Gaia, and ZTF. Hypotheses pass through a governed council before anything gets accepted. Named after the Rio Grande de Manati valley region — Taíno heritage, Boriken roots.
 
