@@ -29,5 +29,7 @@ Nvidianemotronchallenge2026 - Historical archive of my NVIDIA Nemotron 2026 reas
 
 Synthetic Radar Protocol - A high-fidelity synthetic monitoring, perception degradation, and AI reasoning platform for radar site telemetry. Designed for experimentation, validation, and trustworthy AI-assisted diagnostics.
 
+Atabey - Is an experimental, stateful lineage-tracking scaffold for the Kaggle competition Biohub - Cell Tracking During Development. Name after the Taino ancestral spirit of water and fertility.
+
 Everything here is offline/online, human-in-the-loop, and built with governance before features. I don't chase model size. I chase reliability, transparency and honest failure modes.
 AI works best as a genuine collaborator, not a black box.
