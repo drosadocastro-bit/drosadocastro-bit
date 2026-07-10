@@ -31,5 +31,7 @@ Synthetic Radar Protocol - A high-fidelity synthetic monitoring, perception degr
 
 Atabey - An experimental, stateful lineage-tracking scaffold that explores radar-inspired Overall System Sensitvity, Target Reinforce, Target Correlation, Constant False Alarm Rate (CFAR) and side-lobe suppression techniques for the Kaggle competition Biohub – Cell Tracking During Development. Named after Atabey, the Taíno ancestral spirit associated with water, fertility, and life.
 
+Yucahu - Is an experimental Pokemon TCG battle-agent project for Kaggle's Pokemon TCG AI Battle Challenge.
+
 Everything here is offline/online, human-in-the-loop, and built with governance before features. I don't chase model size. I chase reliability, transparency and honest failure modes.
 AI works best as a genuine collaborator, not a black box.
