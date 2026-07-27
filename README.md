@@ -33,5 +33,7 @@ Atabey - An experimental, stateful lineage-tracking scaffold that explores radar
 
 Yucahu - Is an experimental TCG battle-agent project for Kaggle's Pokemon TCG AI Battle Challenge. The project is named for Yucahu, a Taino figure associated with cultivation, peace, and growth. The agent identity follows that idea: develop the board, preserve resource and manage uncertainty.
 
+Praetor-MCP - A local synthetic prototype showing how an AI agent can query maintenance evidence through an MCP server, prepare a bounded advisory packet, and preserve the evidence and uncertainty needed for human review.
+
 Everything here is offline/online, human-in-the-loop, and built with governance before features. I don't chase model size. I chase reliability, transparency and honest failure modes.
 AI works best as a genuine collaborator, not a black box.
