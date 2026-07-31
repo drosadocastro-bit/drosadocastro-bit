@@ -1,38 +1,49 @@
-Hello there!! 👋
+# Daniel Rosado | NovaLabs Research
 
-Danny Rosado Castro (Drakus)
+**Independent applied AI lab focused on trustworthy agentic systems, evidence-grounded workflows, and local-first intelligence.**
 
-From Bayamón, Puerto Rico. Building trustworthy AI systems because difficult problems deserve transparent solutions.
+NovaLabs Research is my personal applied AI lab for building and testing AI systems that preserve evidence, uncertainty, provenance, auditability, and human-review boundaries.
 
-What I been working (developing)
+I focus on prototypes where AI can retrieve, draft, reason, and assist — but should not self-certify, overclaim, or replace human judgment.
 
-MANATUABON — A local-first astrophysics reasoning workspace. Ingests real data from JWST, Hubble, LIGO, Gaia, and ZTF. Hypotheses pass through a governed council before anything gets accepted. Named after the Rio Grande de Manati valley region — Taíno heritage, Boriken roots.
+> AI should not merely produce answers. It should show what it used, what it inferred, what remains uncertain, and when a human must decide.
 
-NIC — Nova Intelligent Copilot — Offline-first RAG system built for domain-specific knowledge. Safety layers, hallucination mitigation, evidence tiering.
+ Research Tracks
 
-Agent K — Deterministic integrity scoring for AI agents. No LLM in the evaluation path. Inspired by Blade Runner. Truth > Fluency. Human Authority > AI Autonomy.
+ Trustworthy Agentic Systems
+Agent workflows with bounded autonomy, deterministic governance, containment patterns, and human-review gates.
 
-Julia — AI crop caretaker for Puerto Rico home gardeners. Runs offline on a Jetson Orin Nano. Named after my grandmother, who loved to plant.
+ Evidence-Grounded Workflows
+Systems that preserve source evidence, provenance, contradiction handling, uncertainty, and reconstructable reasoning.
 
-Project ARIA — Vehicle AI copilot. Real-time car data, intelligent audio, edge hardware.
+ Local-First Intelligence when possible
+Offline-first and edge-friendly AI prototypes for resilient environments with limited connectivity or constrained resources.
 
-Project Lumina A well-designed physics simulation with Google Gemini reflection layer that generates compelling narration, an audio coupling mechanism that genuinely affects node behavior, and a memory system with observable saturation dynamics
+Adaptive Experimental Systems
 
-cibuco-boriken — Historical archive of a BirdCLEF 2026 competition project, including CFAR-inspired adaptive thresholding experiments for noisy bioacoustic species detection. Kaggle team name: Named after Cibuco River in Vega Baja/Corozal same Taíno roots.
+Personal research simulations exploring memory pressure, semantic binding, phase transitions, telemetry, and interpretive visualization.
 
-Cortex - A cognitive investigative assistant framework for uncertain evidence domains.
+ Current Projects
 
-Juracan - a Kaggle orbit wars competition agent  built in colaboration between a human and an AI, pair-programming through the night, across days, through failures and breakthroughs
-Philosophy
+- **PRAETOR-MCP** — evidence-governed MCP advisory workflows where agents can retrieve and draft but cannot self-certify or bypass human review.
+- **Agent K** — deterministic integrity and containment evaluation based on observable traces.
+- **Lumina** — adaptive semantic-state simulation with memory dynamics, phase transitions, audio perturbation, semantic binding, and narrative interpretation.
+- **Cortex** — research-memory and evidence-discipline architecture focused on uncertainty preservation and contradiction handling.
+- **Julia** — local-first AgTech caretaker concept for resilient crop monitoring and human-reviewed recommendations.
+- **Atabey** — scientific image-analysis experimentation focused on cell tracking and evidence-aware model behavior.
 
-Nvidianemotronchallenge2026 - Historical archive of my NVIDIA Nemotron 2026 reasoning challenge workflow, preserving synthetic reasoning data generation, Colab fine-tuning notebooks, LoRA packaging, inference experiments, and lessons learned.
+ Guiding Principles
 
-Synthetic Radar Protocol - A high-fidelity synthetic monitoring, perception degradation, and AI reasoning platform for radar site telemetry. Designed for experimentation, validation, and trustworthy AI-assisted diagnostics.
+- Evidence before confidence.
+- Provenance before conclusions.
+- Human review before action.
+- Boundaries before autonomy.
+- Reconstructability before fluency.
 
-Atabey - An experimental, stateful lineage-tracking scaffold that explores radar-inspired Overall System Sensitvity, Target Reinforce, Target Correlation, Constant False Alarm Rate (CFAR) and side-lobe suppression techniques for the Kaggle competition Biohub – Cell Tracking During Development. Named after Atabey, the Taíno ancestral spirit associated with water, fertility, and life.
+ What This Is Not
 
-Yucahu - Is an experimental TCG battle-agent project for Kaggle's Pokemon TCG AI Battle Challenge. The project is named for Yucahu, a Taino figure associated with cultivation, peace, and growth. The agent identity follows that idea: develop the board, preserve resource and manage uncertainty.
+NovaLabs Research is not a production safety system, a claim of artificial consciousness, or a replacement for qualified human judgment. These projects are independent prototypes, research experiments, and learning artifacts built with synthetic, public, or personal development data.
 
-Praetor-MCP - A local synthetic prototype showing how an AI agent can query maintenance evidence through an MCP server, prepare a bounded advisory packet, and preserve the evidence and uncertainty needed for human review.
+---
 
-Everything here is offline-first or local-first where possible, human-in-the-loop, and built with governance before features. I don’t chase model size. I chase reliability, transparency, and honest failure modes. AI works best as a genuine collaborator, not a black box.
+**Trustworthy agents. Evidence-first systems. Local-first intelligence.**
