@@ -1,8 +1,8 @@
-# Daniel Rosado | NovaLabs Research
+# Daniel Rosado | Nova Labs Research
 
 **Independent applied AI lab focused on trustworthy agentic systems, evidence-grounded workflows, and local-first intelligence.**
 
-NovaLabs Research is my personal applied AI lab for building and testing AI systems that preserve evidence, uncertainty, provenance, auditability, and human-review boundaries.
+Nova Labs Research is my personal applied AI lab for building and testing AI systems that preserve evidence, uncertainty, provenance, auditability, and human-review boundaries.
 
 I focus on prototypes where AI can retrieve, draft, reason, and assist — but should not self-certify, overclaim, or replace human judgment.
 
@@ -24,7 +24,7 @@ Adaptive Experimental Systems
 Personal research simulations exploring memory pressure, semantic binding, phase transitions, telemetry, and interpretive visualization.
 
  Current Projects
-- Nova Intelligent Copilot A safety-focused, offline-first RAG copilot with hallucination mitigation and evaluation tooling.
+- Nova Intelligent Copilot — safety-focused, offline-first RAG copilot with hallucination mitigation and evaluation tooling.
 - PRAETOR-MCP — evidence-governed MCP advisory workflows where agents can retrieve and draft but cannot self-certify or bypass human review.
 - Agent K — deterministic integrity and containment evaluation based on observable traces.
 - Lumina — adaptive semantic-state simulation with memory dynamics, phase transitions, audio perturbation, semantic binding, and narrative interpretation.
@@ -41,8 +41,9 @@ Personal research simulations exploring memory pressure, semantic binding, phase
 - Reconstructability before fluency.
 
  What This Is Not
+These projects are independent prototypes, personal research experiments, and learning artifacts built with synthetic, public, or personal development data.
 
-NovaLabs Research is not a production safety system, a claim of artificial consciousness, or a replacement for qualified human judgment. These projects are independent prototypes, research experiments, and learning artifacts built with synthetic, public, or personal development data.
+Nova Labs Research is not a production safety system, a claim of artificial consciousness, or a replacement for qualified human judgment. These projects are independent prototypes, research experiments, and learning artifacts built with synthetic, public, or personal development data.
 
 ---
 
