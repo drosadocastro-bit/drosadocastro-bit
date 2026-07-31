@@ -40,10 +40,9 @@ Personal research simulations exploring memory pressure, semantic binding, phase
 - Boundaries before autonomy.
 - Reconstructability before fluency.
 
- What This Is Not
-These projects are independent prototypes, personal research experiments, and learning artifacts built with synthetic, public, or personal development data.
+What This Is Not
 
-Nova Labs Research is not a production safety system, a claim of artificial consciousness, or a replacement for qualified human judgment. These projects are independent prototypes, research experiments, and learning artifacts built with synthetic, public, or personal development data.
+These projects are independent prototypes, personal research experiments, and learning artifacts built with synthetic, public, or personal development data. Nova Labs Research is not a production safety system, a claim of artificial consciousness, or a replacement for qualified human judgment. These projects are independent prototypes, research experiments, and learning artifacts built with synthetic, public, or personal development data.
 
 ---
 
