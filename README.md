@@ -24,13 +24,13 @@ Adaptive Experimental Systems
 Personal research simulations exploring memory pressure, semantic binding, phase transitions, telemetry, and interpretive visualization.
 
  Current Projects
-
-- **PRAETOR-MCP** — evidence-governed MCP advisory workflows where agents can retrieve and draft but cannot self-certify or bypass human review.
-- **Agent K** — deterministic integrity and containment evaluation based on observable traces.
-- **Lumina** — adaptive semantic-state simulation with memory dynamics, phase transitions, audio perturbation, semantic binding, and narrative interpretation.
-- **Cortex** — research-memory and evidence-discipline architecture focused on uncertainty preservation and contradiction handling.
-- **Julia** — local-first AgTech caretaker concept for resilient crop monitoring and human-reviewed recommendations.
-- **Atabey** — scientific image-analysis experimentation focused on cell tracking and evidence-aware model behavior.
+- Nova Intelligent Copilot A safety-focused, offline-first RAG copilot with hallucination mitigation and evaluation tooling.
+- PRAETOR-MCP — evidence-governed MCP advisory workflows where agents can retrieve and draft but cannot self-certify or bypass human review.
+- Agent K — deterministic integrity and containment evaluation based on observable traces.
+- Lumina — adaptive semantic-state simulation with memory dynamics, phase transitions, audio perturbation, semantic binding, and narrative interpretation.
+- Cortex — research-memory and evidence-discipline architecture focused on uncertainty preservation and contradiction handling.
+- Julia — local-first AgTech caretaker concept for resilient crop monitoring and human-reviewed recommendations.
+- Atabey — scientific image-analysis experimentation focused on cell tracking and evidence-aware model behavior.
 
  Guiding Principles
 
