@@ -66,7 +66,7 @@ Current themes include:
 - human adjudication
 - provider-agnostic evaluation
 
-The goal is not to prove that an agent is “safe,” but to make its behavior measurable under controlled conditions.
+The throne may be empty. The rules should still know who is king.
 
 ---
 
@@ -97,11 +97,11 @@ Core invariants include:
 - models cannot self-expand their permissions
 - provenance and approval remain independently inspectable
 
-> **The throne may be empty. The rules should still know who is king.**
+> ****
 
 Design language, not a claim of experimental proof.
 
----
+---  The goal is not to prove that an agent is “safe,” but to make its behavior measurable under controlled conditions.
 
 ### PRAETOR Research Lineage
 
