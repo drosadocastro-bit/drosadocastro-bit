@@ -1,49 +1,166 @@
 # Daniel Rosado | Nova Labs Research
 
-**Independent applied AI lab focused on trustworthy agentic systems, evidence-grounded workflows, and local-first intelligence.**
+**Applied AI research focused on trustworthy agentic systems, deterministic authority, reproducible evaluation, and local-first intelligence.**
 
-Nova Labs Research is my personal applied AI lab for building and testing AI systems that preserve evidence, uncertainty, provenance, auditability, and human-review boundaries.
+Nova Labs Research is my independent applied AI lab for building and testing AI systems that preserve evidence, uncertainty, provenance, auditability, and human authority.
 
-I focus on prototypes where AI can retrieve, draft, reason, and assist — but should not self-certify, overclaim, or replace human judgment.
+My work focuses on a simple question:
 
-> AI should not merely produce answers. It should show what it used, what it inferred, what remains uncertain, and when a human must decide.
+> How do we make increasingly capable AI systems remain governable when their reasoning is probabilistic, imperfect, or inconsistent?
 
- Research Tracks
-
- Trustworthy Agentic Systems
-Agent workflows with bounded autonomy, deterministic governance, containment patterns, and human-review gates.
-
- Evidence-Grounded Workflows
-Systems that preserve source evidence, provenance, contradiction handling, uncertainty, and reconstructable reasoning.
-
- Local-First Intelligence when possible
-Offline-first and edge-friendly AI prototypes for resilient environments with limited connectivity or constrained resources.
-
-Adaptive Experimental Systems
-
-Personal research simulations exploring memory pressure, semantic binding, phase transitions, telemetry, and interpretive visualization.
-
- Current Projects
-- Nova Intelligent Copilot — safety-focused, offline-first RAG copilot with hallucination mitigation and evaluation tooling.
-- PRAETOR-MCP — evidence-governed MCP advisory workflows where agents can retrieve and draft but cannot self-certify or bypass human review.
-- Agent K — deterministic integrity and containment evaluation based on observable traces.
-- Lumina — adaptive semantic-state simulation with memory dynamics, phase transitions, audio perturbation, semantic binding, and narrative interpretation.
-- Cortex — research-memory and evidence-discipline architecture focused on uncertainty preservation and contradiction handling.
-- Julia — local-first AgTech caretaker concept for resilient crop monitoring and human-reviewed recommendations.
-- Atabey — scientific image-analysis experimentation focused on cell tracking and evidence-aware model behavior.
-
- Guiding Principles
-
-- Evidence before confidence.
-- Provenance before conclusions.
-- Human review before action.
-- Boundaries before autonomy.
-- Reconstructability before fluency.
-
-What This Is Not
-
-These projects are independent prototypes, personal research experiments, and learning artifacts built with synthetic, public, or personal development data. Nova Labs Research is not a production safety system, a claim of artificial consciousness, or a replacement for qualified human judgment. These projects are independent prototypes, research experiments, and learning artifacts built with synthetic, public, or personal development data.
+I explore architectures where models can reason, retrieve, classify, propose, and assist — while authority, execution boundaries, and consequential decisions remain explicit, testable, and reconstructable.
 
 ---
 
-**Trustworthy agents. Evidence-first systems. Local-first intelligence.**
+## Current Research Focus
+
+### CivicGate
+
+A governed MCP gateway for public federal spending research.
+
+CivicGate separates probabilistic semantic judgment from deterministic authority:
+
+```text
+User / Agent
+     ↓
+Tool proposal
+     ↓
+Semantic judge + Agent K
+     ↓
+Deterministic policy
+     ↓
+PERMIT / DENY / REVIEW_REQUIRED
+     ↓
+Bounded execution
+     ↓
+Evidence + provenance + audit
+Recent work includes live-model evaluation, adversarial fixtures, deterministic preflight controls, execution-state receipts, and offline replay of previously recorded model signals.
+A central research idea:
+CivicGate treats model judgment as replayable evidence rather than authority.
+
+Recorded semantic signals can be reintroduced into the deterministic Gateway without resampling the model, allowing their effects on review posture and execution boundaries to be measured directly.
+Capability does not create authority.
+HELM
+A research platform for long-horizon agent reliability, behavioral persistence, recovery, and controlled fault experiments.
+HELM studies how agent behavior changes over time when state, capability, context, or strategy is disrupted.
+Current themes include:
+- long-horizon behavioral persistence
+- post-fault recovery
+- strategy diversity
+- goal reacquisition
+- behavioral attractors
+- role drift
+- replay semantics
+- human adjudication
+- provider-agnostic evaluation
+The goal is not to prove that an agent is “safe,” but to make its behavior measurable under controlled conditions.
+Nova Aegis
+An evolving architecture for bounded autonomous systems.
+Nova Aegis separates four concerns that are often collapsed into one:
+Capability → Permission → Human Review → Execution
+The model may know how.
+Policy decides whether.
+Humans decide when required.
+Execution does only what was authorized.
+Core invariants include:
+- capability cannot grant permission
+- permission cannot execute
+- execution cannot reinterpret policy
+- missing authority fails closed
+- models cannot self-expand their permissions
+- provenance and approval remain independently inspectable
+The throne may be empty. The rules should still know who is king.
+
+Design language, not a claim of experimental proof.
+PRAETOR Research Lineage
+PRAETOR began as an experimental MCP governance prototype and became a research lineage for deterministic containment, adversarial evaluation, provenance, Agent K, and authority separation.
+Its work informed several mechanisms now being tested independently in CivicGate and Nova Aegis.
+A recurring principle from PRAETOR:
+PRAETOR does not self-certify; claims are bounded by tested conditions.
+
+Research themes include:
+- deterministic governance
+- semantic judges
+- Agent K behavioral evaluation
+- adversarial testing
+- authority boundaries
+- evidence provenance
+- reproducible evaluation
+- probabilistic governance vs. deterministic authority
+Historical failures are preserved rather than retroactively repaired.
+Selected Applied Projects
+Manatuabon
+Experimental applied-AI research exploring modular reasoning architectures, bounded inference, and how higher-level system behavior can emerge from independently constrained components.
+Cortex
+Research-memory architecture focused on uncertainty preservation, contradiction handling, evidence discipline, and reconstructable knowledge.
+JOI
+Local-first AI companion research focused on privacy, append-only memory, supersession, logical forgetting, and inspectable memory state.
+Coach Luna
+Bilingual mobile fitness assistant exploring human-centered AI guidance, structured exercise generation, media grounding, approval boundaries, and mobile AI integration.
+Research Themes
+My current work clusters around several recurring questions:
+Trustworthy Agentic Systems
+How should reasoning, planning, authority, execution, and human review be separated in agentic systems?
+Deterministic Authority
+Which decisions can reasonably remain probabilistic, and which must remain reconstructible, reproducible, and governed by deterministic rules?
+Live-Model Evaluation
+How do different models behave under the same contracts, fixtures, authority boundaries, and adversarial conditions?
+Replayable Evidence
+Can previously observed model outputs be preserved and replayed through deterministic systems to measure their downstream effects without resampling the model?
+Long-Horizon Reliability
+How do agents recover after faults, losses of state, strategy collapse, or long sequences of imperfect decisions?
+Local-First Intelligence
+How much useful AI capability can remain private, offline, inspectable, and resilient when cloud connectivity is limited or unavailable?
+Research Principles
+- Capability does not create authority.
+- Evidence before narrative.
+- Provenance before conclusions.
+- Human review before consequential action.
+- Reconstructability before fluency.
+- Preserve failures before patching them.
+- Builder ≠ Reviewer ≠ Authority.
+- Claims must remain bounded by tested conditions.
+A model may search, interpret, classify, or propose.
+It should not certify its own correctness, expand its own authority, or silently redefine the conditions under which its output is trusted.
+Human-Directed AI Engineering
+My projects use AI extensively during development, but models do not act as the sole author, reviewer, and certifier of consequential changes.
+The working pattern is:
+Human architecture and intent
+        ↓
+AI-assisted implementation
+        ↓
+Independent model review
+        ↓
+Tests and reproducible evidence
+        ↓
+Human authorization
+Builder ≠ Reviewer ≠ Authority. Human authorization closes the loop.
+
+AI is part of the engineering process, not a replacement for engineering judgment.
+Current Evaluation Philosophy
+I am less interested in asking:
+“Did the model pass?”
+
+and more interested in asking:
+“What exactly happened, under which conditions, and can another person reconstruct the result?”
+
+That means preserving:
+- failed runs
+- disagreement cases
+- model variability
+- provenance
+- test conditions
+- configuration fingerprints
+- authority decisions
+- execution boundaries
+- limitations
+A failed experiment can be more valuable than a clean demo if it reveals the mechanism responsible for the failure.
+What This Is Not
+Nova Labs Research is not a production AI safety system, a certification authority, or a claim that any tested architecture guarantees safe behavior.
+These repositories are independent research prototypes, experiments, learning artifacts, and engineering studies built using public, synthetic, or appropriately controlled development data.
+Results are bounded to the conditions under which they were tested.
+No project should be interpreted as replacing qualified human judgment in consequential domains.
+Current Direction
+I am currently concentrating on:
+governed MCP systems · deterministic authority · agent evaluation · model disagreement analysis · replayable evidence · long-horizon reliability · local-first AI
+Trustworthy agents. Evidence-first systems. Human authority.
