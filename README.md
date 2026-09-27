@@ -103,7 +103,7 @@ Design language, not a claim of experimental proof.
 
 ---  The goal is not to prove that an agent is “safe,” but to make its behavior measurable under controlled conditions.
 
-### [PRAETOR Research Lineage] [https://github.com/drosadocastro-bit/PRAETOR_MCP]
+### [PRAETOR Research Lineage](https://github.com/drosadocastro-bit/PRAETOR_MCP)
 
 PRAETOR began as an experimental MCP governance prototype and became a research lineage for deterministic containment, adversarial evaluation, provenance, Agent K, and authority separation.
 
